@@ -53,7 +53,7 @@ y así.
 
 - Para ingresar al espacio de Slack del Prep Course de Henry, por favor ingresa a la [plataforma de admisión](https://www.admissions.soyhenry.com/) donde encontrarás el link de acceso al mismo.
 
-## Editores de Texto
+## Editores de Textoa
 
 Para poder escribir código que pueda ser interpretado por un lenguaje de programación, necesitamos utilizar un editor de texto.
 
